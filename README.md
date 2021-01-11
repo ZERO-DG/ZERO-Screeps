@@ -6,3 +6,5 @@ Screeps 脚本存储库
 
 1. Screeps-创建 creep、采集
    创建 creep、采集 energy、回收蜂巢
+2. Screeps-升级控制器
+   升级控制器
